@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Random;
 
 public class Simpler_Passwortgenerator {
@@ -34,3 +35,8 @@ public class Simpler_Passwortgenerator {
         System.out.println("Entsprechendes ASCII-Zeichen: " + (char) randomAscii);
     }
 }
+=======
+public class Simpler_Passwortgenerator {
+
+}
+>>>>>>> 463ef38c191b9c55aee0dcc7a3bcccac04f72fcc
